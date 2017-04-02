@@ -1,69 +1,70 @@
-* {
-	padding: 0px;
-	margin: 0px;
-}
-
-body{
-	background: #E5E5E5;
-	color: #fff;
-	font-size: 16px;
-	font-family: Arial,  Arial, Tahoma, Verdana ,'Times New Roman',sans-serif;
-
-}
-
-/*code viết cho thanh header*/
-.navbar-brand {
-	padding: 0px;
-}
-
-.navbar-brand img {
-	height: 80px;
-	padding: 5px;
-	width: auto;
-}
-
-.navbar-black {
-	background-color: #000; 
-}
-
-
-@font-face {
-	font-family: 'myFont';
-	src: url('hdad-segment14-1.002/Segment14.otf');
-}
-
-@font-face {
-	font-family: 'myFont1';
-	src: url('hdad-segment14-1.002/DIGITALDREAM.ttf');
-}
-
-@font-face {
-	font-family: 'myFont2';
-	src: url('hdad-segment14-1.002/TrueType/SFDigitalReadout-Heavy.ttf');
-}
-
-ul.font-nav li {
-	text-transform: uppercase;
-	color: #fff;
-	font-weight: bold;
-}
-
+@charset "UTF-8";
 .example3 .navbar-brand {
-	height: 80px;
-}
+  height: 80px; }
 
-.example3 .nav >li >a {
-	padding-top: 30px;
-	padding-bottom: 30px;
-}
+.example3 .nav > li > a {
+  padding-top: 30px;
+  padding-bottom: 30px; }
+
 .example3 .navbar-toggle {
-	padding: 10px;
-	margin: 25px 15px 25px 0;
-}
+  padding: 10px;
+  margin: 25px 15px 25px 0; }
 
 .example3 form {
-	padding-top: 15px;
-	padding-bottom: 5px;
-}
+  padding-top: 15px;
+  padding-bottom: 5px; }
 
-/*Kết thúc code viết cho thanh header*/
+* {
+  padding: 0px;
+  margin: 0px; }
+
+body {
+  background: #E5E5E5;
+  color: #fff;
+  font-size: 16px;
+  font-family: Arial,  Arial, Tahoma, Verdana ,'Times New Roman',sans-serif; }
+
+/*code vi├í┬║┬┐t cho thanh header*/
+.navbar-brand {
+  padding: 0px; }
+
+.navbar-brand img {
+  height: 80px;
+  padding: 5px;
+  width: auto; }
+
+.navbar-black {
+  background-color: #000; }
+
+@font-face {
+  font-family: 'myFont';
+  src: url("hdad-segment14-1.002/Segment14.otf"); }
+@font-face {
+  font-family: 'myFont1';
+  src: url("hdad-segment14-1.002/DIGITALDREAM.ttf"); }
+@font-face {
+  font-family: 'myFont2';
+  src: url("hdad-segment14-1.002/TrueType/SFDigitalReadout-Heavy.ttf"); }
+ul.font-nav li {
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: bold; }
+
+.example3 .navbar-brand {
+  height: 80px; }
+
+.example3 .nav > li > a {
+  padding-top: 30px;
+  padding-bottom: 30px; }
+
+.example3 .navbar-toggle {
+  padding: 10px;
+  margin: 25px 15px 25px 0; }
+
+.example3 form {
+  padding-top: 15px;
+  padding-bottom: 5px; }
+
+/*K├í┬║┬┐t th├â┬║c code vi├í┬║┬┐t cho thanh header*/
+
+/*# sourceMappingURL=style.css.map */
